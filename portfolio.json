@@ -1,10 +1,22 @@
 [
 	{
-		"name": "Aragorn",
-		"race": "Human"
+		"name": "Gifticon Website",
+		"text": "<div>HTML5, CSS, BOOTSTRAP, PHP, MSSQL, ELAVON PAYMENT API</div>",
+    "img" : ["gifticon1.png", "gifticon2.png"]
+	},
+  {
+		"name": "HNIS Inventory System",
+		"text": "Human",
+    "img" : ["hnis1.png", "hnis2.png"]
 	},
 	{
-		"name": "Gimli",
-		"race": "Dwarf"
+		"name": "T-Brothers Website",
+		"text": "Human",
+    "img" : ["tb1.png", "tb2.png"]
+	},
+	{
+		"name": "Gifticon Website2",
+		"text": "Human",
+    "img" : ["gifticon1.png", "gifticon2.png"]
 	}
 ]
