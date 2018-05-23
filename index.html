@@ -429,8 +429,16 @@
     <script src="js/resume.min.js"></script>
     <script>
       $(document).ready(function(){
-        $(".img-responsive").click(function(){
-            alert("The paragraph was clicked.");
+        $(".portfolio-img").click(function(){
+          $.ajax({
+                  url:'portfolio.json',
+                  dataType: 'json',
+                  success:function(data){
+                    for( var i = 0; i < data.length; i++){
+                      console.log(data[i].name);
+                    }
+                  }
+          });
         });
       });
   </script>
