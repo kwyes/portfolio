@@ -1,12 +1,12 @@
 [
 	{
 		"name": "Gifticon Website",
-		"text": "<div>HTML5, CSS, BOOTSTRAP, PHP, MSSQL, ELAVON PAYMENT API</div>",
-    "img" : ["gifticon1.png", "gifticon2.png"]
+		"text": "<div>HTML5, CSS, BOOTSTRAP, PHP, MSSQL, ELAVON PAYMENT API",
+    "img" : ["gifticon1.png", "gifticon2.png", "gifticon3.png", "gifticon4.png"]
 	},
   {
 		"name": "HNIS Inventory System",
-		"text": "Human",
+		"text": "Human ",
     "img" : ["hnis1.png", "hnis2.png"]
 	},
 	{
