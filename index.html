@@ -469,6 +469,7 @@
       $.ajax({
               url:'portfolio.json',
               dataType: 'json',
+              cache: false,
               success:function(data){
                 var carousel = '<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="false">';
                 carousel += '<div class="carousel-inner">';
