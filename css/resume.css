@@ -203,3 +203,8 @@ a:hover, a:focus, a:active {
   min-height: 100%;
   border-radius: 0;
 }
+.gallery_product img{
+  width:300px;
+  height:300px;
+  cursor:pointer;
+}
