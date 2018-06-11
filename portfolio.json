@@ -1,18 +1,24 @@
 [
 	{
 		"name": "Gifticon Website",
-		"text": "<div>HTML5, CSS, BOOTSTRAP, PHP, MSSQL, ELAVON PAYMENT API",
-    "img" : ["gifticon1.png", "gifticon2.png", "gifticon3.PNG", "gifticon4.PNG"]
+		"text": "<div class='row'><div class='col-md-10'>HTML5, CSS, BOOTSTRAP, PHP, MSSQL, JAVASCRIPT, JQUERY, AJAX, ELAVON PAYMENT API<br><br>Connect With POS DB server. All the items selling are from POS DB Server.Once the payment is made through the ELAVON PAYMENT API, Automatically, it creates image that I attached and send an email with all the gifticon image to email address that customer put. Then the Customer bring this image to any branch of market.<br /></div><div class='col-md-2'><img class='d-block w-100'src='portfolio-img/gifticon5.jpg'></div></div>",
+    "img" : ["gifticon1.png", "gifticon2.png", "gifticon3.png", "gifticon4.png"],
+		"btn" : "window.open('https://github.com/kwyes/gifticon')",
+		"url" : "window.open('https://www.hannamsm.com/gifticon')"
 	},
   {
 		"name": "HNIS Inventory System",
 		"text": "Human ",
-    "img" : ["hnis1.png", "hnis2.png"]
+    "img" : ["hnis1.png", "hnis2.png", "hnis3.png", "hnis4.png"],
+		"btn" : "window.open('https://github.com/kwyes/hnis')",
+		"url" : "window.open('https://www.hannamsm.com/hnis')"
 	},
 	{
-		"name": "T-Brothers Website",
-		"text": "Human",
-    "img" : ["tb1.png", "tb2.png"]
+		"name": "WHOLESALE Inventory System",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Card(Vendor,Customer List), Account(AR), Sales, Purchase, Inventory, Report, Mapping, Config<br> Excel import and export from database, Invoice Form PDF, E-Catalog(Chosen Item List PDF) <br> Update Balance From sales & purchase, Authority Level not all can access every pages, Language Selection(Order sheet, catalog etc)</div>",
+    "img" : ["wholesale1.png", "wholesale2.png", "wholesale3.png", "wholesale4.png"],
+		"btn" : "window.open('https://github.com/kwyes/hnis')",
+		"url" : "window.open('https://group.t-brothers.com/wholesale')"
 	},
 	{
 		"name": "Gifticon Website2",
