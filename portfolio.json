@@ -8,7 +8,7 @@
 	},
   {
 		"name": "HNIS Inventory System",
-		"text": "Human ",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : [Vendor] Dashboard, Register Item, Manage Item, New Order, Order History, Printing Order Sheets as pdf  <br> [Admin] Authorize Account, Manage Vendor List, Manage Vendor Item Lists, Admin Order, Receiving Orders From Vendors, Confirming Orders.  <br> Main goal is to manage retail shop item balance. Track Orders easily. Authority Level not all can access every pages.<br><a href='Ordersheet_sample.pdf' download>Download Sample Order Sheet</a></div>",
     "img" : ["hnis1.png", "hnis2.png", "hnis3.png", "hnis4.png"],
 		"btn" : "window.open('https://github.com/kwyes/hnis')",
 		"url" : "window.open('https://www.hannamsm.com/hnis')"
