@@ -23,6 +23,8 @@
 	{
 		"name": "GROUPWARE WEBSITE",
 		"text": "TEST",
-    "img" : ["groupware1.png", "groupware2.png", "groupware3.png", "groupware4.png", "groupware5.PNG", "groupware6.PNG", "groupware7.PNG", "groupware8.png", "groupware9.png", "groupware10.png", "groupware11.png", "groupware12.png"]
+    "img" : ["groupware1.png", "groupware2.png", "groupware3.png", "groupware4.png", "groupware5.PNG", "groupware6.PNG", "groupware7.PNG", "groupware8.png", "groupware9.png", "groupware10.png", "groupware11.png", "groupware12.png"],
+		"btn" : "window.open('https://github.com/kwyes/groupware')",
+		"url" : "window.open('http://group.t-brothers.com')"
 	}
 ]
