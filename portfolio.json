@@ -22,7 +22,7 @@
 	},
 	{
 		"name": "GROUPWARE WEBSITE",
-		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Writing, Modifying, Submitting - Proposal, Voucher, Sales Journal Activities, Busniess Trip Proposal, Item Spot Check, Community Board, HR, Property Management Page<br> Excel import and export from database, Invoice Form PDF, E-Catalog(Chosen Item List PDF) <br> Update Balance From sales & purchase, Authority Level not all can access every pages, Language Selection(Order sheet, catalog etc)<br><br>I can only show some of the codes since it's confidential.</div>",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Writing, Modifying, Submitting - Proposal, Voucher, Sales Journal Activities, Busniess Trip Proposal, Item Spot Check, Community Board, HR, Property Management Page</div>",
     "img" : ["groupware1.png", "groupware2.png", "groupware3.png", "groupware4.png", "groupware5.png", "groupware6.PNG", "groupware7.PNG", "groupware8.png", "groupware9.png", "groupware10.png", "groupware11.png", "groupware12.png"],
 		"btn" : "window.open('https://github.com/kwyes/groupware')",
 		"url" : "window.open('http://group.t-brothers.com')"
