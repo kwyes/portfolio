@@ -29,7 +29,7 @@
 	},
 	{
 		"name": "TIMECARD WEBSITE",
-		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Time Tracking, Users Timesheet</div>",
+		"text": "<div>HTML5, CSS, MYSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Time Tracking, Users Timesheet</div>",
     "img" : ["timecard1.png", "timecard2.png", "timecard3.png", "timecard4.png", "timecard5.png", "timecard6.png", "timecard7.png", "timecard8.png", "timecard9.png"],
 		"btn" : "window.open('https://github.com/kwyes/timecard')",
 		"url" : "window.open('http://kwyes3.000webhostapp.com')"
