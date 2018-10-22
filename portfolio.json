@@ -36,7 +36,7 @@
 	},
 	{
 		"name": "Retail Supermarket",
-		"text": "<div>HTML5, CSS, MYSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Time Tracking, Users Timesheet</div>",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Company Information, 4 Main Menus, 17 Sub Menus, Slider, Youtube video <br> Subsribe to E-flyer, Membership Join, Check Membership Point, Apply for a job <br><br>  </div>",
     "img" : ["hannam1.png", "hannam2.png", "hannam3.png", "hannam4.png", "hannam5.png", "hannam6.png"],
 		"btn" : "window.open('')",
 		"url" : "window.open('https://www.hannamsm.com')"
