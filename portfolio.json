@@ -43,7 +43,7 @@
 	},
 	{
 		"name": "Wholesale",
-		"text": "<div>HTML5, CSS, MYSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Time Tracking, Users Timesheet</div>",
+		"text": "<div>HTML5, CSS, MYSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> </div>",
     "img" : ["tbrothers1.png","tbrothers2.png","tbrothers3.png"],
 		"btn" : "window.open('')",
 		"url" : "window.open('http://t-brothers.com')"
