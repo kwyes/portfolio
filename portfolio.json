@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Gifticon Website",
-		"text": "<div class='row'><div class='col-md-10'>HTML5, CSS, BOOTSTRAP, PHP, MSSQL, JAVASCRIPT, JQUERY, AJAX, ELAVON PAYMENT API<br><br>Connect With POS DB server. All the items selling are from POS DB Server.Once the payment is made through the ELAVON PAYMENT API, Automatically, it creates image that I attached and send an email with all the gifticon image to email address that customer put. Then the Customer bring this image to any branch of market.<br /><br /><br />Things I was in charge of : Research, Database Design, Server Configuration, Front-End Developing, Back-End Developing<br><br>Other Roles : Time scheduling, Presentation to Boss<br><br>Timeline : 2017-08 ~ 2017-11</div><div class='col-md-2'><img class='d-block w-100'src='portfolio-img/gifticon5.jpg'></div></div>",
+		"text": "<div class='row'><div class='col-md-10'>HTML5, CSS, BOOTSTRAP, PHP, MSSQL, JAVASCRIPT, JQUERY, AJAX, ELAVON PAYMENT API<br><br>Connect With POS DB server. All the items selling are from POS DB Server.Once the payment is made through the ELAVON PAYMENT API, Automatically, it creates image that I attached and send an email with all the gifticon image to email address that customer put. Then the Customer bring this image to any branch of market.<br /><br /><br />Things I was in charge of : Research, Database Design, Server Configuration, Front-End Developing, Back-End Developing<br><br>Other Roles : Time scheduling, Presentation to Boss, Contact Card Company for Payment API<br><br>Timeline : 2017-08 ~ 2017-11</div><div class='col-md-2'><img class='d-block w-100'src='portfolio-img/gifticon5.jpg'></div></div>",
     "img" : ["gifticon1.png", "gifticon2.png", "gifticon3.png", "gifticon4.png"],
 		"btn" : "window.open('https://github.com/kwyes/gifticon')",
 		"url" : "window.open('https://www.hannamsm.com/gifticon')"
@@ -15,34 +15,34 @@
 	},
 	{
 		"name": "WHOLESALE Inventory System",
-		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Card(Vendor,Customer List), Account(AR), Sales, Purchase, Inventory, Report, Mapping, Config<br> Excel import and export from database, Invoice Form PDF, E-Catalog(Chosen Item List PDF) <br> Update Balance From sales & purchase, Authority Level not all can access every pages, Language Selection(Order sheet, catalog etc)<br><br>I can only show some of the codes since it's confidential.<br><br><br>Things I was in charge of : Maintenance, Adding Features, Front-End Developing, Back-End Developing, Database Design<br><br>Other Roles : Getting Feedback from users and talk with manager about things we had to change<br><br>Timeline : No Timeline</div>",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Card(Vendor,Customer List), Account(AR), Sales, Purchase, Inventory, Report, Mapping, Config<br> Excel import and export from database, Invoice Form PDF, E-Catalog(Chosen Item List PDF) <br> Update Balance From sales & purchase, Authority Level not all can access every pages, Language Selection(Order sheet, catalog etc)<br><br>I can only show some of the codes since it's confidential.<br><br><br>Things I was in charge of : Maintenance, Adding Features, Front-End Developing, Back-End Developing, Database Design<br><br>Other Roles : Getting Feedback from users and talk with manager about things we had to change<br><br>Timeline : 2016-05 ~ 2016-08</div>",
     "img" : ["wholesale1.png", "wholesale2.png", "wholesale3.png", "wholesale4.png", "wholesale5.png"],
 		"btn" : "window.open('https://github.com/kwyes/wholesale')",
 		"url" : "window.open('http://group.t-brothers.com/wholesale')"
 	},
 	{
 		"name": "GROUPWARE WEBSITE",
-		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Writing, Modifying, Submitting - Proposal, Voucher, Sales Journal Activities, Busniess Trip Proposal, Item Spot Check, Community Board, HR, Property Management Page</div>",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Writing, Modifying, Submitting - Proposal, Voucher, Sales Journal Activities, Busniess Trip Proposal, Item Spot Check, Community Board, HR, Property Management Page<br><br><br>Things I was in charge of : Front-End Developing, Back-End Developing, Database Design, Testing<br><br>Other Roles : Educating how to use HR website to HR Team, Teach how to use Resource Management website to Hardware Maintenance team <br><br>Timeline : 2017-04 ~ 2017-08</div>",
     "img" : ["groupware1.png", "groupware2.png", "groupware3.png", "groupware4.png", "groupware5.png", "groupware6.PNG", "groupware7.PNG", "groupware8.png", "groupware9.png", "groupware10.png", "groupware11.png", "groupware12.png"],
 		"btn" : "window.open('https://github.com/kwyes/groupware')",
 		"url" : "window.open('http://group.t-brothers.com')"
 	},
 	{
 		"name": "TIMECARD WEBSITE",
-		"text": "<div>HTML5, CSS, MYSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Time Tracking, Users Timesheet</div>",
+		"text": "<div>HTML5, CSS, MYSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Time Tracking, Users Timesheet, Admin Pg to see all the tracking data and save all the Information about church and church member<br><br><br>Things I was in charge of : Front-End Developing, Back-End Developing, Database Design, Testing<br><br>Other Roles : Providing this website to church and ask them to check if there is anything they'd like to change. <br><br>Timeline : 2018-08 ~ 2018-08 </div>",
     "img" : ["timecard1.png", "timecard2.png", "timecard3.png", "timecard4.png", "timecard5.png", "timecard6.png", "timecard7.png", "timecard8.png", "timecard9.png"],
 		"btn" : "window.open('https://github.com/kwyes/timecard')",
 		"url" : "window.open('http://kwyes3.000webhostapp.com')"
 	},
 	{
 		"name": "Retail Supermarket",
-		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX, Google Adsense <br><br> Company Information, 4 Main Menus, 17 Sub Menus, Slider, Youtube video <br> Subsribe to E-flyer, Membership Join, Check Membership Point, Apply for a job <br><br>  </div>",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX, Google Adsense <br><br> Company Information, 4 Main Menus, 17 Sub Menus, Slider, Youtube video, Weekly Flyer emailing to subscriber using crontab <br> Subsribe to E-flyer, Membership Join, Check Membership Point, Apply for a job <br><br><br>Things I was in charge of : Admin Pg, Adsense, Design admin Pg, Back-End Developing, Database Design<br><br>Other Roles : Ask design team to upload their Weeklyflyer every friday <br><br>Timeline : 2016-06 ~ 2018-09   </div>",
     "img" : ["hannam1.png", "hannam2.png", "hannam3.png", "hannam4.png", "hannam5.png", "hannam6.png"],
 		"btn" : "window.open('https://github.com/kwyes/retail')",
 		"url" : "window.open('https://www.hannamsm.com')"
 	},
 	{
-		"name": "Wholesale",
+		"name": "Wholesale Website",
 		"text": "<div>HTML5, CSS, MYSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> </div>",
     "img" : ["tbrothers1.png","tbrothers2.png","tbrothers3.png"],
 		"btn" : "window.open('')",
