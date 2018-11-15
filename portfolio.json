@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Gifticon Website",
-		"text": "<div class='row'><div class='col-md-10'>HTML5, CSS, BOOTSTRAP, PHP, MSSQL, JAVASCRIPT, JQUERY, AJAX, ELAVON PAYMENT API<br><br>Connect With POS DB server. All the items selling are from POS DB Server.Once the payment is made through the ELAVON PAYMENT API, Automatically, it creates image that I attached and send an email with all the gifticon image to email address that customer put. Then the Customer bring this image to any branch of market.<br /></div><div class='col-md-2'><img class='d-block w-100'src='portfolio-img/gifticon5.jpg'></div></div>",
+		"text": "<div class='row'><div class='col-md-10'>HTML5, CSS, BOOTSTRAP, PHP, MSSQL, JAVASCRIPT, JQUERY, AJAX, ELAVON PAYMENT API<br><br>Connect With POS DB server. All the items selling are from POS DB Server.Once the payment is made through the ELAVON PAYMENT API, Automatically, it creates image that I attached and send an email with all the gifticon image to email address that customer put. Then the Customer bring this image to any branch of market.<br /><br /><br />Things I was in charge of : Research, Database Design, Server Configuration, Front-End Developing, Back-End Developing<br><br>Other Roles : Time scheduling, Presentation to Boss<br><br>Timeline : 2017-08 ~ 2017-11</div><div class='col-md-2'><img class='d-block w-100'src='portfolio-img/gifticon5.jpg'></div></div>",
     "img" : ["gifticon1.png", "gifticon2.png", "gifticon3.png", "gifticon4.png"],
 		"btn" : "window.open('https://github.com/kwyes/gifticon')",
 		"url" : "window.open('https://www.hannamsm.com/gifticon')"
