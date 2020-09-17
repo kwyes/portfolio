@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Gifticon Website",
+		"text": "<div class='row'><div class='col-md-10'>HTML5, CSS, BOOTSTRAP, PHP, MSSQL, JAVASCRIPT, JQUERY, AJAX, ELAVON PAYMENT API<br><br>Connect With POS DB server. All the items selling are from POS DB Server.Once the payment is made through the ELAVON PAYMENT API, Automatically, it creates image that I attached and send an email with all the gifticon image to email address that customer put. Then the Customer bring this image to any branch of market.<br /><br /><br />Things I was in charge of : Research, Database Design, Server Configuration, Front-End Developing, Back-End Developing<br><br>Other Roles : Time scheduling, Presentation to Boss, Contact Card Company for Payment API<br><br>Timeline : 2017-08 ~ 2017-11</div><div class='col-md-2'><img class='d-block w-100'src='portfolio-img/gifticon5.jpg'></div></div>",
+    "img" : ["gifticon1.png", "gifticon2.png", "gifticon3.png", "gifticon4.png"],
+		"btn" : "window.open('https://github.com/kwyes/gifticon')",
+		"url" : "window.open('https://www.hannamsm.com/gifticon')"
+	},
+  {
+		"name": "HNIS Inventory System",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX, BOOTSTRAP, Google CHART API <br><br> Features : [Vendor] Dashboard, Register Item, Manage Item, New Order, Order History, Printing Order Sheets as pdf  <br> [Admin] Authorize Account, Manage Vendor List, Manage Vendor Item Lists, Admin Order, Receiving Orders From Vendors, Confirming Orders.  <br> Main goal is to manage retail shop item balance. Track Orders easily. Authority Level not all can access every pages.<br><a href='Ordersheet_sample.pdf' download>Download Sample Order Sheet</a><br><br><br>Things I was in charge of : Research, Database Design, Server Configuration, Front-End Developing, Back-End Developing, Quality Assurance<br><br>Other Roles : Time scheduling, Contact Suppliers and educate them, Teach Junior developer How the website works<br><br>Timeline : 2018-01 ~ 2018-06</div></div>",
+    "img" : ["hnis1.png", "hnis2.png", "hnis3.png", "hnis4.png", "hnis5.png", "hnis6.png", "hnis7.png", "hnis8.png", "hnis9.png", "hnis10.png", "hnis11.png", "hnis12.png", "hnis13.png"],
+		"btn" : "window.open('https://github.com/kwyes/hnis')",
+		"url" : "window.open('https://www.hannamsm.com/hnis')"
+	},
+	{
+		"name": "WHOLESALE Inventory System",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Card(Vendor,Customer List), Account(AR), Sales, Purchase, Inventory, Report, Mapping, Config<br> Excel import and export from database, Invoice Form PDF, E-Catalog(Chosen Item List PDF) <br> Update Balance From sales & purchase, Authority Level not all can access every pages, Language Selection(Order sheet, catalog etc)<br><br>I can only show some of the codes since it's confidential.<br><br><br>Things I was in charge of : Maintenance, Adding Features, Front-End Developing, Back-End Developing, Database Design<br><br>Other Roles : Getting Feedback from users and talk with manager about things we had to change<br><br>Timeline : 2016-05 ~ 2016-08</div>",
+    "img" : ["wholesale1.png", "wholesale2.png", "wholesale3.png", "wholesale4.png", "wholesale5.png"],
+		"btn" : "window.open('https://github.com/kwyes/wholesale')",
+		"url" : "window.open('http://group.t-brothers.com/wholesale')"
+	},
+	{
+		"name": "GROUPWARE WEBSITE",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Writing, Modifying, Submitting - Proposal, Voucher, Sales Journal Activities, Busniess Trip Proposal, Item Spot Check, Community Board, HR, Property Management Page<br><br><br>Things I was in charge of : Front-End Developing, Back-End Developing, Database Design, Testing<br><br>Other Roles : Educating how to use HR website to HR Team, Teach how to use Resource Management website to Hardware Maintenance team <br><br>Timeline : 2017-04 ~ 2017-08</div>",
+    "img" : ["groupware1.png", "groupware2.png", "groupware3.png", "groupware4.png", "groupware5.png", "groupware6.PNG", "groupware7.PNG", "groupware8.png", "groupware9.png", "groupware10.png", "groupware11.png", "groupware12.png"],
+		"btn" : "window.open('https://github.com/kwyes/groupware')",
+		"url" : "window.open('http://group.t-brothers.com')"
+	},
+	{
+		"name": "Student Portal",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Student can access to check the grade, voluteer hourrs, AEP, etc and to submit self submit hours <br><br>Timeline : 2019-01 ~ 2019-04</div>",
+    "img" : ["sp.png", "sp1.png", "sp2.png", "sp3.png", "sp4.png"],
+		"btn" : "window.open('https://github.com/kwyes/student-portal')",
+		"url" : "window.open('https://student.portal.bodwell.edu')"
+	},
+	{
+		"name": "IT Portal",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : IT Teams can manage student's devices, register mac address, returned devices, School email reset  <br><br>Timeline : 2019-02 ~ 2019-05</div>",
+    "img" : ["it.png", "it1.png", "it2.png", "it3.png", "it4.png", "it5.png"],
+		"btn" : "window.open('https://github.com/kwyes/it-portal')",
+		"url" : "window.open('')"
+	},
+	{
+		"name": "Student Portal Admin",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX <br><br> Features : Approve Student self submit request, edit and create school activities, search student etc. Based on staff roles, it redirect to counsellor, boarding, admin, faculty <br><br>Timeline : 2019-04 ~ 2019-08</div>",
+    "img" : ["spa.png", "spa1.png", "spa2.png", "spa3.png"],
+		"btn" : "window.open('https://github.com/kwyes/SPAdmin')",
+		"url" : "window.open('')"
+	},
+	{
+		"name": "Message Portal",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX, TextEditor Library, Curl <br><br> Features : Message center for mainly Mobile application, When staff create the message, it fires the notification to mobile application users. I used python and curl.<br><br>Timeline : 2020-01 ~ 2020-02</div>",
+    "img" : ["msg.png", "msg1.png"],
+		"btn" : "window.open('https://github.com/kwyes/MsgCtr')",
+		"url" : "window.open('')"
+	},
+	{
+		"name": "My Child Portal",
+		"text": "<div>HTML5, CSS, MSSQL, PHP, JAVASCRIPT, JQUERY, AJAX, Canto Api <br><br> Features : Parents can access the website to check their kids grade and self submit hours. We upload all the video like school new into canto, the website Automatically connect the api to get the list and link and display them<br><br>Timeline : 2020-03 ~ 2020-04</div>",
+    "img" : ["ch.png", "ch1.png"],
+		"btn" : "window.open('https://github.com/kwyes/MyChildPortal')",
+		"url" : "window.open('https://mychild.bodwell.edu')"
+	}
+]
