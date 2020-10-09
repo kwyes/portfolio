@@ -61,5 +61,12 @@
     "img" : ["ch.png", "ch1.png"],
 		"btn" : "window.open('https://github.com/kwyes/MyChildPortal')",
 		"url" : "window.open('https://mychild.bodwell.edu')"
+	},
+	{
+		"name": "My Child Portal Mobile APP",
+		"text": "<div>React Native, MSSQL, PHP, PHP Slim Frameworks, JAVASCRIPT<br><br> Features : Grade data for child, Child Life, Past term data, Pulling video, photo data from Canto(Digital Asset Management Solutions) thourgh Canto api, Push Notification System. etc<br><br>Restful API, Api server I built with PHP Slim Frameworks. For the database, I used Mssql.<br><br>Timeline : 2019-03 ~ 2019-06</div>",
+    "img" : ["app20.PNG", "app21.PNG", "app22.PNG", "app23.PNG", "app24.PNG", "app25.PNG", "app26.PNG" ],
+		"btn" : "window.open('https://github.com/github-admin-bodwell/MyBodwellApp')",
+		"url" : "window.open('https://apps.apple.com/ca/app/mybodwell-mobile/id1486680935')"
 	}
 ]
