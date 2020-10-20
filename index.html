@@ -413,7 +413,7 @@
     </section>
 
   <!-- Modal -->
-  <div class="modal fade" id="art" tabindex="-1" role="dialog" aria-labelledby="artLabel" aria-hidden="true">
+  <div class="modal fade" id="art" style="" tabindex="-1" role="dialog" aria-labelledby="artLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -481,7 +481,8 @@
                 $(".modal-footer").html(viewcode+viewweb+'<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>');
                 var $item = $('.carousel-item');
                 var $wHeight = $(window).height();
-                $item.height($wHeight-168);
+                // $('.carousel-item').css('max-height','801px');
+                $item.height($wHeight-368);
                 // console.log(data[id].text);
               }
       });

@@ -208,3 +208,8 @@ a:hover, a:focus, a:active {
   height:300px;
   cursor:pointer;
 }
+
+#art{
+  width:63%;
+  margin:0 auto;
+}
